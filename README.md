@@ -41,9 +41,7 @@ Edit
 
 > This is how the website looks in the browser:
 
-![Screenshot](screenshot.png)
-
-> Make sure the image file `Screenshot (152).png` is committed and pushed along with your code, and located in the root directory of your repo.
+![Screenshot](scrrenshot.png)
 
 ---
 
